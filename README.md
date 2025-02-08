@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrikiz&label=Profile%20views&color=0e75b6&style=flat" alt="itzrikiz" /> </p>
 
-- 🔭 I’m currently working on **Masala Moment**
+- 🔭 I’m currently working on **Foodie Hub**
 
-- 🌱 I’m currently learning **Baas, Backend**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **React,Redux,Vue,Vuex**
 
