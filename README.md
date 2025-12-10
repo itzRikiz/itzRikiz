@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **React,Redux,Vue,Vuex**
+- 💬 Ask me about **React,Redux,Vue,Nuxt,Vuex,Pinia,Asp .net MVC, MS SQL Server**
 
 - 📫 How to reach me **pain.sanmay@gmail.com**
 
